@@ -1,6 +1,6 @@
 # Сircles
 А сколько ТЫ сможешь поймать кружочков? Проверь свои силы по ссылке ниже
-* [Играть](https://anastasiiakunstman.github.io/circles/index.html)
+[Играть](https://anastasiiakunstman.github.io/circles/index.html)
 
 ![Alt text](./images/image-2.png)
 ![Alt text](./images/image.png)
